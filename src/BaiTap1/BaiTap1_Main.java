@@ -18,6 +18,7 @@ public class BaiTap1_Main {
         // TODO code application logic here
         HoaDonHeader hdh1 = new HoaDonHeader("HD98","02/04/2020","Trần Nhân Tố");
         HoaDonHeader hdh2 = new HoaDonHeader("HD99","12/01/2020","Trương Tuyền");
+        
         CTHD ctHD1 = new CTHD("điện thoại",2,25000000,0.1);
         CTHD ctHD2 = new CTHD("máy tính",1,15000000,0.15);
         CTHD ctHD3 = new CTHD("bàn phím",1,200000,0.05);
